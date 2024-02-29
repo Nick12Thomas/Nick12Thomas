@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Learning Blockchain<br>Front-End Developer<br>IOT<br>Reach me: nikhilsthomas123@gmail.com<br>Portfolio: nikhilsthomas.netlify.app
+Full-Stack(MERN) Developer<br>IOT<br>Reach me: nikhilsthomas123@gmail.com<br>Portfolio: nikhilsthomas.netlify.app
 
 
 ## 🌐 Socials:
