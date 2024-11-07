@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Full-Stack(MERN) Developer<br>IOT<br>Reach me: nikhilsthomas123@gmail.com<br>Portfolio: nikhilsthomas.netlify.app
+Web Developer<br>IOT<br>Reach me: nikhilsthomas123@gmail.com<br>Portfolio: nikhilsthomas.netlify.app
 
 
 ## 🌐 Socials:
