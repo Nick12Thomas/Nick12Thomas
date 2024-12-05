@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Web Developer<br>IOT<br>Reach me: nikhilsthomas123@gmail.com<br>Portfolio: nikhilsthomas.netlify.app
+Software Developer<br>IOT<br>Reach me: nikhilsthomas123@gmail.com<br>Portfolio: nikhilsthomas.netlify.app
 
 
 ## 🌐 Socials:
